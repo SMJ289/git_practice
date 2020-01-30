@@ -11,5 +11,7 @@ class Github
 
   def steve
   end
-  
+
+  def write
+  end
 end
