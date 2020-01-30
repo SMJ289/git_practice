@@ -20,4 +20,8 @@ class Github
 
   def run
   end
+
+  def eat
+  end
+  
 end
