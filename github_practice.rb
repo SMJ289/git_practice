@@ -14,4 +14,8 @@ class Github
 
   def write
   end
+
+  def read
+  end
+  
 end
