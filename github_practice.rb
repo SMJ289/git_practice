@@ -17,5 +17,7 @@ class Github
 
   def read
   end
-  
+
+  def run
+  end
 end
