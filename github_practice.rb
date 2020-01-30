@@ -5,4 +5,7 @@ class Github
 
   def practice(skill)
   end
+
+  def branch
+  end
 end
